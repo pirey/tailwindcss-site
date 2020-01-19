@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+
+.btn {
+  @apply bg-white text-gray-900 shadow-lg rounded-lg px-4 py-2 text-sm font-semibold;
+}
+.btn:focus {
+  @apply outline-none;
+}
+.btn-teal {
+  @apply bg-teal-500 text-white;
+}
+
+@tailwind utilities;
