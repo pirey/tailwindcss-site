@@ -1,9 +1,9 @@
 <script>
-import Separator from './components/Separator.vue'
+import Wave from './components/Wave.vue'
 
 export default {
   components: {
-    Separator
+    Wave
   }
 }
 </script>
@@ -32,7 +32,7 @@ export default {
       </div>
     </section>
 
-    <Separator class="relative z-10" />
+    <Wave class="relative z-10" />
 
     <section class="px-6 pt-16 pb-40 bg-white">
       <h2 class="text-2xl leading-none">Most CSS frameworks do too much.</h2>
