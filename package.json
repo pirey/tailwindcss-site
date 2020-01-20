@@ -1,5 +1,6 @@
 {
-  "name": "hello",
+  "name": "tailwindcss-site",
+  "description": "Rebuilding tailwindcss site with tailwindcss",
   "version": "0.1.0",
   "private": true,
   "scripts": {
